@@ -1,0 +1,9 @@
+Aplikacija služi za vodenje evidencije o korisnikovim kursevima. Korisniku se nakon login-a
+otvara Dashboard gde on bira neke od ponudjenih operacija. Korisnik može da pregleda sve
+kurseve koji su u bazi, može da doda novi kurs i da pretražuje kurseve. U okviru tabele u kojoj
+se izlistavaju kursevi, korisnik može da selektuje kurs i uradi neku od operacija brisanja ili izmene.
+Dodavanje kursa i izmena postojeceg kursa otvaraju forme u kojima korisnik unosi podatke. 
+Klikom na dugme logut korisnik se odjavljuje.
+
+Sajt se takodje nalazi online i možete pristupiti na linku: http://coursx.unijasf.org/
+a kredencijali su: username: neca password:Neca2020!!
